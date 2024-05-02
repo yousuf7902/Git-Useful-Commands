@@ -1,0 +1,1 @@
+Text 3 file from feature 2 branch
